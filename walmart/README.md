@@ -1,8 +1,8 @@
 # Certificate of completion 
 <img src="https://github.com/Laxman824/Virtual-Internships/blob/main/walmart/screenshots/4.png" width="600">
 
-# Project Title
-Crack the hashcode of leaked passwords online | GoldmanSachs
+## Project Title
+
 Walmart USA Advanced Software Engineering Virtual Experience Program on Forage -
 March 2024
 
@@ -23,8 +23,8 @@ March 2024
 
 
 ## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="https://github.com/Laxman824/Virtual-Internships/blob/main/walmart/screenshots/1.png" width="600">
+<img src="https://github.com/Laxman824/Virtual-Internships/blob/main/walmart/screenshots/2.png" width="600">
 
 
 ## Badges
