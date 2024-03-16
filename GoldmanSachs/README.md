@@ -1,5 +1,7 @@
+# Certificate of completion 
+<img src="https://github.com/Laxman824/Virtual-Internships/blob/main/GoldmanSachs/screenshots/4.png" width="600">
 
-# Project Title
+## Project Title
 Crack the hashcode of leaked passwords online | GoldmanSachs
 ## Installation
 ```bash
@@ -17,7 +19,7 @@ hashcat -m 0 -a 0 -o cracked.txt codes.txt /home/laxman/Desktop/VirtualInterns/G
 <img src="https://github.com/Laxman824/Virtual-Internships/blob/main/GoldmanSachs/screenshots/1.png" width="600">
 <img src="https://github.com/Laxman824/Virtual-Internships/blob/main/GoldmanSachs/screenshots/2.png" width="600">
 <img src="https://github.com/Laxman824/Virtual-Internships/blob/main/GoldmanSachs/screenshots/3.png" width="600">
-<img src="https://github.com/Laxman824/Virtual-Internships/blob/main/GoldmanSachs/screenshots/4.png" width="600">
+
 
 ## Badges
 
